@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pictures
+data/
+outputs/
+*.png
+*.csv
+
+# OS files
+.DS_Store
